@@ -3,10 +3,15 @@
  "name": "Soccer Edge",
  "sport": "Soccer",
  "headline": "",
- "updated": "2026-11-13T07:01:19Z",
+ "updated": "2026-11-13T20:17:06Z",
  "stats": [],
  "rows": [],
  "reports": [
+  {
+   "file": "reports/soccer_edge/20261113201706.html",
+   "updated": "2026-11-13T20:17:06Z",
+   "title": "Soccer Edge - Nov 13 2026"
+  },
   {
    "file": "reports/soccer_edge/20261113070119.html",
    "updated": "2026-11-13T07:01:19Z",
