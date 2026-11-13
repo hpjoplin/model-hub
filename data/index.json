@@ -1,15 +1,16 @@
 {
- "updated": "2026-11-13T06:06:40Z",
+ "updated": "2026-11-13T06:58:21Z",
  "models": [
   {
-   "id": "example",
-   "file": "example.json",
-   "name": "Example model",
-   "sport": "Sample data, not real picks",
-   "headline": "This card goes away the first time you send real results from your Mac",
-   "updated": "2026-11-13T06:00:00Z",
-   "count": 3,
-   "demo": true
+   "id": "nfl_edge",
+   "file": "nfl_edge.json",
+   "name": "NFL Edge",
+   "sport": "NFL",
+   "headline": "",
+   "updated": "2026-11-13T06:58:21Z",
+   "count": 0,
+   "report": "reports/nfl_edge/20261113065821.html",
+   "report_count": 1
   }
  ]
 }
