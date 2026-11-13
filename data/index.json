@@ -1,0 +1,15 @@
+{
+ "updated": "2026-11-13T06:06:40Z",
+ "models": [
+  {
+   "id": "example",
+   "file": "example.json",
+   "name": "Example model",
+   "sport": "Sample data, not real picks",
+   "headline": "This card goes away the first time you send real results from your Mac",
+   "updated": "2026-11-13T06:00:00Z",
+   "count": 3,
+   "demo": true
+  }
+ ]
+}
