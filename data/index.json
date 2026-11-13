@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:17:27Z",
+ "updated": "2026-11-13T20:18:41Z",
  "models": [
   {
    "id": "cfb_edge",
@@ -40,10 +40,10 @@
    "name": "Soccer Edge",
    "sport": "Soccer",
    "headline": "",
-   "updated": "2026-11-13T20:17:06Z",
+   "updated": "2026-11-13T20:18:41Z",
    "count": 0,
-   "report": "reports/soccer_edge/20261113201706.html",
-   "report_count": 2
+   "report": "reports/soccer_edge/20261113201841.html",
+   "report_count": 3
   }
  ]
 }
