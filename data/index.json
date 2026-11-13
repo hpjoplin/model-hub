@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T07:02:03Z",
+ "updated": "2026-11-13T07:04:35Z",
  "models": [
+  {
+   "id": "cfb_edge",
+   "file": "cfb_edge.json",
+   "name": "CFB Edge",
+   "sport": "College football",
+   "headline": "",
+   "updated": "2026-11-13T07:04:35Z",
+   "count": 0,
+   "report": "reports/cfb_edge/20261113070435.html",
+   "report_count": 1
+  },
   {
    "id": "nfl_edge",
    "file": "nfl_edge.json",
