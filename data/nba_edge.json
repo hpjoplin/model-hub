@@ -1,0 +1,16 @@
+{
+ "id": "nba_edge",
+ "name": "NBA Edge",
+ "sport": "NBA",
+ "headline": "",
+ "updated": "2026-11-13T20:17:27Z",
+ "stats": [],
+ "rows": [],
+ "reports": [
+  {
+   "file": "reports/nba_edge/20261113201727.html",
+   "updated": "2026-11-13T20:17:27Z",
+   "title": "NBA Edge Friday, November 13, 2026"
+  }
+ ]
+}
