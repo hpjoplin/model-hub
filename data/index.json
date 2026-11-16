@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:37:52Z",
+ "updated": "2026-11-16T15:48:50Z",
  "models": [
   {
    "id": "cfb_edge",
@@ -29,10 +29,10 @@
    "name": "NFL Edge",
    "sport": "NFL",
    "headline": "",
-   "updated": "2026-11-13T07:02:03Z",
+   "updated": "2026-11-16T15:48:50Z",
    "count": 0,
-   "report": "reports/nfl_edge/20261113070203.html",
-   "report_count": 2
+   "report": "reports/nfl_edge/20261116154850.html",
+   "report_count": 3
   },
   {
    "id": "soccer_edge",
