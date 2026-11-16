@@ -3,10 +3,15 @@
  "name": "CFB Edge",
  "sport": "College football",
  "headline": "",
- "updated": "2026-11-13T07:04:35Z",
+ "updated": "2026-11-16T15:55:39Z",
  "stats": [],
  "rows": [],
  "reports": [
+  {
+   "file": "reports/cfb_edge/20261116155539.html",
+   "updated": "2026-11-16T15:55:39Z",
+   "title": "CFB week 12, 2026 — model vs market"
+  },
   {
    "file": "reports/cfb_edge/20261113070435.html",
    "updated": "2026-11-13T07:04:35Z",
